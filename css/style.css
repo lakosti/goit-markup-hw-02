@@ -1,15 +1,15 @@
 /* Основные параметры */
-body {
-    background-color: #ffffff;
-    color: var(--primary-text-color);
-    font-family: "Roboto";
-    letter-spacing: 0.03em;
-}
 :root {
     --primary-text-color: #212121;
     --secondary-text-color: #757575;
     --font-header-footer: #2f303a;
     --white-color-text: #ffffff;
+}
+body {
+    background-color: #ffffff;
+    color: var(--primary-text-color);
+    font-family: "Roboto";
+    letter-spacing: 0.03em;
 }
 /* Оформление логотипа */
 .zero-logo {
