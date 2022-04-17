@@ -5,6 +5,12 @@ body {
     font-family: "Roboto";
     letter-spacing: 0.03em;
 }
+:root {
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --font-header-footer: #2f303a;
+    --white-color-text: #ffffff;
+}
 /* Оформление логотипа */
 .zero-logo {
     text-decoration: none;
@@ -194,12 +200,6 @@ body {
     font-size: 14px;
     line-height: 1.71;
     text-decoration: none;
-}
-:root {
-    --primary-text-color: #212121;
-    --secondary-text-color: #757575;
-    --font-header-footer: #2f303a;
-    --white-color-text: #ffffff;
 }
 
 /* Оформление стилей Портфолио */
