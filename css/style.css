@@ -8,7 +8,7 @@
 body {
     background-color: #ffffff;
     color: var(--primary-text-color);
-    font-family: "Roboto";
+    font-family: "Roboto","Helvetica Neue",sans-serif;
     letter-spacing: 0.03em;
 }
 /* Оформление логотипа */
@@ -92,7 +92,7 @@ body {
     letter-spacing: 0.02em;
     text-decoration: none;
 }
-.ligh {
+.light {
     color: #2196f3;
 }
 .title-section,
