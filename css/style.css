@@ -122,7 +122,7 @@ body {
 .button {
     color: var(--white-color-text);
     background-color: #2196f3;
-    font-family: "Roboto";
+    font-family: inherit;
     border-radius: 4px;
     border: none;
     font-weight: 700;
